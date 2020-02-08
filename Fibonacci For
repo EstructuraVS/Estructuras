@@ -1,0 +1,14 @@
+def f(n):
+	a=0
+	b=1
+
+	for i in range(n):
+		c=a+b
+		a=b
+		b=c
+	return b
+
+y=int(input('ingrse un numero'))
+
+for x in range(y):
+		print(f(x))
