@@ -1,1 +1,23 @@
+ def remove_tail(self):
+	if self.head==none:
+		print("No existen objetos")
+	else:
+		obj=self.head
+		while(obj.next!=none):
+			obj=obj.nxt
+	del(obj)
+	def remove_element(self,val):
+		if self.head==none:
+			print("no hay objetos")
 
+		else:
+			e=self.head
+	while(e.nxt != none):
+		if(e.val==val):
+			del(e)
+			break
+			e=e=nxt
+			if(e.val==val):
+				del(e)
+			else:
+				print("No se logro encontrar")
