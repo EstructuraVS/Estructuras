@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Troncales>
+	<k>
+		<Estacion n="1"> 
+			<nombre>portal nombre</nombre>
+			<latitud>4.681761</latitud>
+			<longitud>-74.121455</longitud>
+			
+		</Estacion>
+
+		<Estacion n="2"> 
+			<nombre>Modelia</nombre>
+			<latitud>4.674917</latitud>
+			<longitud>-74.116970</longitud>
+			
+		</Estacion>
+
+		<Estacion n="3"> 
+			<nombre >Avenida Rojas </nombre>
+			<latitud>4.669635</latitud>
+			<longitud>-74.113526</longitud>
+			
+		</Estacion>
+
+		
+		<Estacion n="4"> 
+		
+			<nombre>el tiempo</nombre>
+			<latitud>4.657425</latitud>
+			<longitud>-74.105939</longitud>
+			
+
+		</Estacion>
+		<Estacion n="5"> 
+			<nombre>salitre</nombre>
+			<latitud>4.650589</latitud>
+			<longitud>-74.101575</longitud>
+			
+		</Estacion>
+
+		<Estacion n="6"> 
+			<nombre>CAN</nombre>
+			<latitud>4.647381</latitud>
+			<longitud>-74.099258</longitud>
+			
+			
+		</Estacion>
+		<Estacion n="7"> 
+			<nombre>Gobernacion</nombre>
+			<latitud>4.643061</latitud>
+			<longitud>-74.096855</longitud>
+			
+		</Estacion>
+
+		<Estacion n="8">
+
+			<nombre>quinta paredes</nombre>
+			<latitud>4.637265</latitud>
+			<longitud>-74.092756</longitud>
+			
+		</Estacion>
+
+		<Estacion n="9"> 
+			<nombre>corferias</nombre>
+			<latitud>4.634292</latitud>
+			<longitud>-74.089774</longitud>
+			
+		</Estacion>
+		<Estacion n="10"> 
+			<nombre>ciudad universitaria</nombre>
+			<latitud>4.631212</latitud>
+			<longitud>-74.083787</longitud>
+			
+		</Estacion>
+		<Estacion n="11"> 
+			<nombre>plaza democracia</nombre>
+			<latitud>4.626357</latitud>
+			<longitud>-74.080654</longitud>
+			
+		</Estacion>
+		<Estacion n="12">
+			<nombre>centro memoria</nombre>
+			<latitud>4.620561</latitud>
+			<longitud>-74.076384</longitud>
+			
+		</Estacion>
+		<Estacion n="13"> 
+			<nombre>Universidades</nombre>
+			<latitud>4.602632</latitud>
+			<longitud>-74.068324</longitud>
+			
+
+			
+		</Estacion>
+	</k>
+	<j>
+
+		
+
+		
+		<Estacion n="14"> 
+		<nombre>las aguas</nombre>
+		<latitud>4.602706</latitud>
+		<longitud>-74.068462</longitud>
+		</Estacion>	
+		<Estacion n="15"> 
+		<nombre>museo del oro</nombre>
+		<latitud>4.601280</latitud>
+		<longitud> -74.072857</longitud>
+		
+		</Estacion>	
+		<Estacion n="16"> 
+		<nombre>av jimenez</nombre>
+		<latitud>4.602909</latitud>
+		<longitud>-74.080355</longitud>
+		
+		</Estacion>
+
+		
+	</j>
+
+</Troncales>
